@@ -9,6 +9,7 @@ function App() {
         <p>
           سلام خوش آمدید
         </p>
+        
       </header>
     </div>
   );
